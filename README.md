@@ -7,7 +7,7 @@
 > **Repositório não oficial**
 >
 > - Repositório para compartilhar atividades e conteúdos que possam agregar no curso de Engenharia de Software.
-> - fique a vontade para nos ajudar com nossos estudos e para estudar!
+> - Fique a vontade para nos ajudar com nossos estudos e para estudar!
 >
 ## Conteúdos que podem te ajudar
 
