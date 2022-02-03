@@ -1,4 +1,4 @@
-![Engenharia de Software](/capa.png)
+<img src="/capa.png" width="240">
 
 # Engenharia de Software Ampli
 
