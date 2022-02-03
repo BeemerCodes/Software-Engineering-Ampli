@@ -2,7 +2,7 @@
 
 # Engenharia de Software Ampli
 
-## Nosso grupo o Whatsapp ![Grupo](/zap.png "zap" {width=40px height=40px})[Clique aqui](<https://chat.whatsapp.com/GHEIZQZeZ9v5cqfe2BVdff>)
+## Nosso grupo o Whatsapp ![Grupo](/zap.png = 50x50)[Clique aqui](<https://chat.whatsapp.com/GHEIZQZeZ9v5cqfe2BVdff>)
 
 > **Repositório não oficial**
 >
