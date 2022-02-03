@@ -1,9 +1,10 @@
-![Engenharia de Software](/capa)
+![Engenharia de Software](/capa.png)
 
 # Engenharia de Software Ampli
 
 ## Nosso grupo o Whatsapp
-<https://chat.whatsapp.com/GHEIZQZeZ9v5cqfe2BVdff>
+
+[Clique aqui](<https://chat.whatsapp.com/GHEIZQZeZ9v5cqfe2BVdff>)
 
 > **Repositório não oficial**
 >
