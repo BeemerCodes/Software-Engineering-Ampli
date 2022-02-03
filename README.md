@@ -1,5 +1,5 @@
 <img src="/capa.png" width="1280">
-
+---
 # Engenharia de Software Ampli
 
 ## Nosso grupo o Whatsapp <img src="/zap.png" width="24"> - [Clique aqui](<https://chat.whatsapp.com/GHEIZQZeZ9v5cqfe2BVdff>)
