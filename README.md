@@ -1,3 +1,4 @@
+![Engenharia de Software](/capa)
 # Engenharia de Software Ampli
 ## Nosso grupo o Whatsapp
 https://chat.whatsapp.com/GHEIZQZeZ9v5cqfe2BVdff
