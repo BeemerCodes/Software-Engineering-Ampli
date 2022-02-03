@@ -1,4 +1,4 @@
-<img src="/capa.png" width="640">
+<img src="/capa.png" width="1280">
 
 # Engenharia de Software Ampli
 
