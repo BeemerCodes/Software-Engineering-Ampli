@@ -1,4 +1,4 @@
-<img src="/capa.png" width="1280">
+<img src="/Readme/capa.png" width="1280">
 
 ---
 
